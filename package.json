@@ -2,6 +2,7 @@
   "name": "password-generator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abhinandkr56.github.io/react-password-generator",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
